@@ -1,3 +1,2 @@
-# curso-python-pip
-
 # Pasos
+Curso-python-pip (platzi)
