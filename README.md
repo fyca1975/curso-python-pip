@@ -3,7 +3,8 @@ Curso-python-pip (platzi)
 
 para correr puedra papel y tijera, ejecutar en terminal 
 
-'''sh
+
+´´´sh
 cd game
 py main.py
-'''
+´´´
