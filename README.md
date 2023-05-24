@@ -12,6 +12,18 @@ py main.py
 ```sh
 git clone
 cd app_read
+py -m venv env
+source env/bin/activate
+pip3 install -r requirements.txt
+py main.py
+
+```
+
+# Webserver 
+```sh
+git clone
+cd webServer
+py -m venv env
 source env/bin/activate
 pip3 install -r requirements.txt
 py main.py
